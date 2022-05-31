@@ -1,2 +1,3 @@
 # Batto
-Converting .bat file to .exe using resource 
+Converting .bat file to .exe using resources
+
